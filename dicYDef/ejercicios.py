@@ -1,6 +1,4 @@
 #Ejercicios establecidos en la guia:
-
-
 #Escriba una función en Python que reproduzca lo siguiente:𝑓(𝑥, 𝑦) = 𝑥2 + 𝑦2      Valor para X=3 y valor para Y=5
 
 def miLindaFuncion(x,y):
@@ -25,4 +23,4 @@ def lista(arg):
     print(i)
   print(result2[-1])
 
-lista(['lunes','martes','miercoles','jueves','viernes','sabado'])
+lista(['lunes','martes','miercoles','jueves','viernes','sabado']) 
